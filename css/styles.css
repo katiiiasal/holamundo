@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    color:blue;
+}
+
+#encabezado{
+    color:rgb(137, 7, 7);
+}
+
+.texto-verde{
+    color:green;
+    font-size: 40px;
+}
